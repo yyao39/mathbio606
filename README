@@ -1,0 +1,8 @@
+11.6
+urea.pdb is a starting point
+need to assign properties to all atoms in urea.pdb
+
+water box 50 * 50 * 50 nm^3 add 120 urea ~1.5M
+generate mixture file
+check its consistency with urea structure and water structure file
+10ns 2000 step
